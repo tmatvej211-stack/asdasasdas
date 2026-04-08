@@ -19,11 +19,11 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "8639770562:AAF7R53qBQxDuF_V_MYPHPD7Ticjqc10t5E"
-SUPER_ADMIN_IDS = {5688999382, 7660927415}
+BOT_TOKEN = "8658628123:AAHIffJR3Vr4HbugXW_kC8y7HRdI8evcFDk"
+SUPER_ADMIN_IDS = {5688999382, 8727416659}
 VALUTE = "TON"
-TON_ADDRESS = "УКАЖИ_СВОЙ_TON_АДРЕС"
-SBP_CARD = "УКАЖИ_НОМЕР_КАРТЫ - Сбп"
+TON_ADDRESS = "UQCl9NJH5wQF-U_isFQnhPW9YUMSKpEvt9c7JdZoVF49afhn"
+SBP_CARD = "2204320988836187 - Озон банк"
 
 # Переменная для хранения ID чата уведомлений
 NOTIFICATION_CHAT_ID = None
