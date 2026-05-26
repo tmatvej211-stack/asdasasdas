@@ -16,7 +16,7 @@ from telegram.constants import ParseMode
 from functools import wraps
 
 # ========== НАСТРОЙКИ ==========
-BOT_TOKEN = "8658628123:AAHIffJR3Vr4HbugXW_kC8y7HRdI8evcFDk"  # Замените на ваш токен!
+BOT_TOKEN = "8973197320:AAFgg1rOOK2ogmkGNg3Vj1Bnl6fCkEj-Hxo"  # Замените на ваш токен!
 
 # Администраторы (ID через запятую)
 SUPER_ADMIN_IDS = {5688999382, 8727416659}  # Замените на ваши ID
